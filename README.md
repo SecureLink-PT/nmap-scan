@@ -20,7 +20,7 @@ $ git clone https://github.com/SecureLink-PT/nmap-scan
 $ cd nmap-scan
 $ echo "1.1.2.2" > ips.txt
 $ echo 8.8.8.8" >> ips.txt
-$ scan.sh
+$ ./scan.sh
 ...
-$ parse.py
+$ ./parse.py
 ```
